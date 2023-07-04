@@ -5,6 +5,7 @@
 
 #include <algorithm>
 #include <cstring>
+#include <cstdint>
 
 #include "opentelemetry/nostd/string_view.h"
 #include "opentelemetry/version.h"
